@@ -1,4 +1,4 @@
-## Earlysquad Test
+## Basic homepage
 
 This is a landing page created using Gatsby, React and styled-components.
 
