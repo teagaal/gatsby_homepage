@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: `EarlySquad`,
-    description: `EarlySquad is used by 1,000,000+ professionals and chosen by the smartest companies to appraise, sell and buy domains.`,
+    title: `DomainDaily`,
+    description: `DomainDaily is used by 1,000,000+ professionals and chosen by the smartest companies to appraise, sell and buy domains.`,
     author: `@gatsbyjs`,
   },
   plugins: [
